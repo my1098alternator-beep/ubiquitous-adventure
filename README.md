@@ -1,5 +1,5 @@
 # ubiquitous-adventure
-<!--
+<!-- xcbhc
 clash-royale-like prototype (single-file)
 - Purpose: competition-ready demo to put on GitHub + GitHub Pages
 - Features included:
